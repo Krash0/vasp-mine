@@ -1,0 +1,6 @@
+name: VaspMine
+main: vm.Main
+version: 1.0
+author: Krash0
+commands:
+  vm:
