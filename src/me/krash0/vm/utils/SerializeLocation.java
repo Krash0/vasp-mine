@@ -1,4 +1,4 @@
-package vm;
+package me.krash0.vm.utils;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
